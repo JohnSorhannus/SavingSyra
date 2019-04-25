@@ -12,4 +12,18 @@ I wrote most of the code here. The following files were provided by my professor
 
 # UML Diagrams
 
-![Collpased UML Diagram](/UMLDiagrams/COLLAPSED_UML_DIAGRAM)
+![Collapsed UML Diagram](/UMLDiagrams/COLLAPSED_UML_DIAGRAM.png)
+
+![PlayerClass](/UMLDiagrams/PLAYERCLASS.png)
+
+![Humanoid](/UMLDiagrams/HUMANOID.png)
+
+![Human, Elf, Orc, and HalfElf](/UMLDiagrams/HUMAN_AND_SUBCLASSES.png)
+
+![Monster, Troll, and Ogre](/UMLDiagrams/MONSTER_AND_SUBCLASSES.png)
+
+![PackClass](/UMLDiagrams/PACK_CLASS.png)
+
+![Player Handle Class](/UMLDiagrams/PLAYER_HANDLE_CLASS.png)
+
+
