@@ -9,3 +9,7 @@ I wrote most of the code here. The following files were provided by my professor
 * voc.h
 * wpn.h
 * all .in files
+
+# UML Diagrams
+
+![Collpased UML Diagram](/UMLDiagrams/COLLAPSED_UML_DIAGRAM)
